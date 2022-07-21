@@ -19,3 +19,9 @@ func
 [basic](./basic) = very basic i-o-if-for-func. read from keyboard and print to screen
 
 [file](./file) = input from file, output to file, import function from another file
+
+[db](./db) = sqlite (name, score) to (name, score, grade)
+
+[gui](./gui) = tinydialogs, fidget, wnim
+
+[web](./web) = puppy, jsony

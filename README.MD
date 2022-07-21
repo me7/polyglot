@@ -52,7 +52,10 @@ Human have difficulty to transfer knowledge from one person to another but in co
 
 ## What's languages in the plan of study?
 - [nim](./nim/)
+- [labview](./labview)
+- [C (arduino, nodeMCU)](./c)
+- [nodered](./nodered)
 - [python](./nim/)
 - [typescript](./nim/)
-- [labview](./nim/)
-- [nodered](./nim/)
+- [lua](./nim/)
+- [scratch](./nim/)
