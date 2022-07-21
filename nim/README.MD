@@ -13,3 +13,9 @@ for
 
 func
 >func sum(x,y: int): int = x+y
+
+
+## folder
+[basic](./basic) = very basic i-o-if-for-func. read from keyboard and print to screen
+
+[file](./file) = input from file, output to file, import function from another file
